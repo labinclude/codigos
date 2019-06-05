@@ -18,3 +18,6 @@ Esses modelos devem ser impressos para o desenvolvimento do robo
 https://www.thingiverse.com/thing:355019  - placa <br>
 Esse modelo de aixo estou analisando como podemos fazer para inserir um determinado nome, especificado pela aluna
 https://www.thingiverse.com/thing:2764200 - coleira
+
+A aluna ira necessitar desse sensor tambem: <br>
+https://www.youtube.com/watch?v=89Scve6raqc
