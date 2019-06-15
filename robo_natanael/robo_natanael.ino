@@ -12,7 +12,7 @@ void setup() {
  pinMode(IN2, OUTPUT);
  pinMode(IN3, OUTPUT);
  pinMode(IN4, OUTPUT);
- // inicializar comunicaçao Serial
+ // Inicializar comunicaçao Serial
  Serial.begin(9600); 
 }  
     
@@ -30,7 +30,7 @@ void loop()
      }
   
      if (valor == 2 ) {
-       //morto gira para trais caso reseba o comanto dois
+       // Motor gira para tras caso receba o comanto dois
        digitalWrite(IN1, LOW);
        digitalWrite(IN2, HIGH);
        digitalWrite(IN3, LOW);
